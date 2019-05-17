@@ -42,7 +42,7 @@
   "dependencies": {
     "mafmt": "^6.0.7",
     "multiaddr": "^6.0.6",
-    "peer-id": "~0.12.2",
+    "peer-id": "github:alanshaw/js-peer-id-lite",
     "unique-by": "^1.0.0"
   },
   "contributors": [
