@@ -1,6 +1,6 @@
 'use strict'
 
-const PeerId = require('peer-id')
+const PeerId = require('peer-id-lite')
 const { ensureMultiaddr } = require('./utils')
 const MultiaddrSet = require('./multiaddr-set')
 const assert = require('assert')
