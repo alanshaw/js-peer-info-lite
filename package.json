@@ -1,5 +1,5 @@
 {
-  "name": "peer-info",
+  "name": "peer-info-lite",
   "version": "0.15.1",
   "description": "IPFS Peer abstraction JavaScript implementation",
   "leadMaintainer": "Pedro Teixeira <i@pgte.me>",
